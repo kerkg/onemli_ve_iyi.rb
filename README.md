@@ -1,0 +1,1 @@
+# onemli_ve_iyi.rb
