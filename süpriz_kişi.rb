@@ -1,3 +1,3 @@
-#ruby "C:\Users\KEREM KÜÇÜKGÖDE\Desktop\süpriz_kişi.rb"
+#ruby "dosyanın konumunu buraya yaz"
 puts "kergk"
 
