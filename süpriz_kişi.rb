@@ -1,3 +1,3 @@
-#ruby "dosyanın konumunu buraya yaz"
+#ruby "dosyanın konumu\süpriz_kişi.rb"
 puts "kergk"
 
